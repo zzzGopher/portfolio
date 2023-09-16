@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DylanPortFolio", "DylanPortFolio\DylanPortFolio.csproj", "{67EE6526-CC27-4274-A47A-AE65D2E7CDCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67EE6526-CC27-4274-A47A-AE65D2E7CDCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67EE6526-CC27-4274-A47A-AE65D2E7CDCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67EE6526-CC27-4274-A47A-AE65D2E7CDCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67EE6526-CC27-4274-A47A-AE65D2E7CDCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
