@@ -9,6 +9,14 @@
       "PackagePath": "staticwebassets/Assets/Frame 1.svg"
     },
     {
+      "Id": "/home/gopher/RiderProjects/DylanPortFolio/DylanPortFolio/wwwroot/Assets/mountain.jpg",
+      "PackagePath": "staticwebassets/Assets/mountain.jpg"
+    },
+    {
+      "Id": "/home/gopher/RiderProjects/DylanPortFolio/DylanPortFolio/wwwroot/css/Index.css",
+      "PackagePath": "staticwebassets/css/Index.css"
+    },
+    {
       "Id": "/home/gopher/RiderProjects/DylanPortFolio/DylanPortFolio/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },

@@ -1,0 +1,44 @@
+.bottom_text{
+    color: black;
+    position: relative;
+    z-index: 999;
+}
+.copy_text{
+    left: 0;
+    opacity: 45%;
+    top: 250px;
+    height: 250px;
+    font-size: 14px;
+    @media only screen and (min-width: 768px){
+        font-size: 24px;
+    }
+}
+
+.heading_font_col{
+    @media screen and (min-width: 768px) {
+        padding-left: 4px;
+    }
+}
+
+.location_text{
+    @media screen and (min-width: 768px){
+        color:green;
+        width: 100%;
+    }
+}
+
+p>span{
+    font-weight: bolder;
+}
+
+p>span:nth-child(2n){
+    color: black;
+}
+
+a{
+    color:black;
+}
+a:hover{
+    color:var(--bs-gray-700);
+    transition: ease-in-out .2s;
+}
