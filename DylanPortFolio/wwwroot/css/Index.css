@@ -1,11 +1,12 @@
+
 .bottom_text{
-    color: black;
+    color: var(--bs-gray-700);
     position: relative;
     z-index: 999;
 }
 .copy_text{
     left: 0;
-    opacity: 45%;
+    opacity: 25%;
     top: 250px;
     height: 250px;
     font-size: 14px;
@@ -20,10 +21,20 @@
     }
 }
 
+
 .location_text{
+    width:100%;
     @media screen and (min-width: 768px){
-        color:green;
-        width: 100%;
+        
+        width:50%;
+    }
+}
+
+.ok-span{
+        color:white;
+    @media screen and (min-width:768px){
+        align-self:start;
+        margin-left:12px;
     }
 }
 
@@ -32,13 +43,22 @@ p>span{
 }
 
 p>span:nth-child(2n){
-    color: black;
+    color: white;
 }
 
 a{
     color:black;
 }
 a:hover{
-    color:var(--bs-gray-700);
+    color:var(--bs-gray-300);
     transition: ease-in-out .2s;
 }
+
+
+
+.location_wrapper{
+    width:fit-content;
+    margin-inline:auto;
+    text-align:start;
+}
+
