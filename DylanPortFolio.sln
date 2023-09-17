@@ -1,6 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DylanPortFolio", "DylanPortFolio\DylanPortFolio.csproj", "{67EE6526-CC27-4274-A47A-AE65D2E7CDCA}"
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DylanPortFolio", "DylanPortFolio\DylanPortFolio.csproj", "{67EE6526-CC27-4274-A47A-AE65D2E7CDCA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -12,5 +15,8 @@ Global
 		{67EE6526-CC27-4274-A47A-AE65D2E7CDCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{67EE6526-CC27-4274-A47A-AE65D2E7CDCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{67EE6526-CC27-4274-A47A-AE65D2E7CDCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
 	EndGlobalSection
 EndGlobal
